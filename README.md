@@ -1,4 +1,4 @@
 # hello-world
-Test Repository
+Deleted the text "Test Repository"
 
 Text edit to commit the change.
